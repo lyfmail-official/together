@@ -1,0 +1,10 @@
+{
+"name":"together",
+"version":"1.0.0",
+"description":"Therapeutic Silence Platform",
+"main":"server/server.js",
+"dependencies":{
+"express":"^4.18.2",
+"ws":"^8.13.0"
+}
+}
