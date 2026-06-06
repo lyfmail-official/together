@@ -26,21 +26,21 @@ Sometimes healing happens in quiet shared presence.
 
 Together provides:
 
-• Silent shared spaces  
-• Minimal UI  
-• Timer-based silence sessions  
-• Privacy-first architecture  
-• No social pressure  
+• Silent shared spaces.  
+• Minimal UI.  
+• Timer-based silence sessions.  
+• Privacy-first architecture.  
+• No social pressure.  
 
 ---
 
 ## Features
 
-• Join silent presence rooms  
-• Visual presence indicators  
-• Timer for silent sessions  
-• Minimal distraction interface  
-• Privacy-first design  
+• Join silent presence rooms.  
+• Visual presence indicators.  
+• Timer for silent sessions.  
+• Minimal distraction interface.  
+• Privacy-first design.  
 
 ---
 
@@ -90,3 +90,6 @@ Together exists to restore mental balance in the digital age.
 ## License
 
 MIT License
+
+**Maintained by [LYF Mail](https://github.com/lyfmail-official)** · 
+Founded by [Ajay Kumar Chaudhary](https://github.com/lyfmail) 
